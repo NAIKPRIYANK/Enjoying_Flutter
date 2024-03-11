@@ -1,0 +1,2 @@
+# outputs
+![](netfl/Netflix.png)
