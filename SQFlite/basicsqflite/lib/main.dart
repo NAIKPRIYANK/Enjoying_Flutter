@@ -198,7 +198,7 @@ Future getDataFromDataBase() async {
 }
 
 Future upadateDatabase(Employee obj) async {
-  await database;
+  
 
 
   await database.update("Employee", obj.dataOfPlayer(),
